@@ -1,0 +1,5 @@
+***NOTAS DE LA VERSIÓN 0.2***
+-Meteorito
+-Desplazamiento de meteorito ahcia la izquierda
+-Movimiento de meteorito incrementando poco a poco hasta llegar a un punto en el que el incremento es minimo.
+

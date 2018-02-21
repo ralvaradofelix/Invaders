@@ -1,0 +1,5 @@
+***NOTAS DE LA VERSIÓN 0.1***
+-Añadido fondo.
+-Añadida nave.
+-Añadido movimiento de la nave en eje Y.
+
